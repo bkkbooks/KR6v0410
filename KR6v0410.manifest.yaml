@@ -1,0 +1,1340 @@
+canonical_identifier: bkk:krp/KR6v0410/v1
+canonical_location: https://kanripo.org/bkk/KR6v0410/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 獻花巖志
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B24/B24n0139.xml
+    old_id: B24n0139
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0410_000.yaml, hash: 'sha256:a02d6370495c1669647b1e9a2fde04ba27c1a089f8dd8373b4423e5f1a8b4923'}
+  - {seq: 1, filename: KR6v0410_001.yaml, hash: 'sha256:0105021f03e1ebdfaeaf82ef3c47be2bfdc426c5203a4186fb61b553b286a8b8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0410_000.markers.yaml, hash: 'sha256:0b827528525267074f531bbe0ea4d2c3ce678fd3626fdaa4278d25efa1e4d113'}
+  - {seq: 1, role: markers, filename: assets/KR6v0410_001.markers.yaml, hash: 'sha256:989ef6cfdac94dd0d2f979a3479e8082be3de96494883b70d2efe09fe658a28a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0410_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8320
+  label: 獻花巖志
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-1
+    span:
+    - body
+    - 14
+    - 14
+  label: 前言
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-2
+    span:
+    - body
+    - 508
+    - 508
+  label: 志山石第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-3
+    span:
+    - body
+    - 513
+    - 513
+  label: 花巖山
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-4
+    span:
+    - body
+    - 670
+    - 670
+  label: 芙蓉峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-5
+    span:
+    - body
+    - 687
+    - 687
+  label: 拱北峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-6
+    span:
+    - body
+    - 725
+    - 725
+  label: 天盤嶺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-7
+    span:
+    - body
+    - 760
+    - 760
+  label: 西風嶺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-8
+    span:
+    - body
+    - 800
+    - 800
+  label: 中峯
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-9
+    span:
+    - body
+    - 845
+    - 845
+  label: 志巖洞第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-10
+    span:
+    - body
+    - 850
+    - 850
+  label: 獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-11
+    span:
+    - body
+    - 960
+    - 960
+  label: 伏虎洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-12
+    span:
+    - body
+    - 992
+    - 992
+  label: 神蛇洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-13
+    span:
+    - body
+    - 1035
+    - 1035
+  label: 象鼻洞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-14
+    span:
+    - body
+    - 1051
+    - 1051
+  label: 志水泉第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-15
+    span:
+    - body
+    - 1056
+    - 1056
+  label: 八孟塘
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-16
+    span:
+    - body
+    - 1089
+    - 1089
+  label: 龜冲
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-17
+    span:
+    - body
+    - 1105
+    - 1105
+  label: 查塘堰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-18
+    span:
+    - body
+    - 1115
+    - 1115
+  label: 息泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-19
+    span:
+    - body
+    - 1151
+    - 1151
+  label: 淨香泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-20
+    span:
+    - body
+    - 1194
+    - 1194
+  label: 太白泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-21
+    span:
+    - body
+    - 1274
+    - 1274
+  label: 長庚池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-22
+    span:
+    - body
+    - 1346
+    - 1346
+  label: 志臺甃第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-23
+    span:
+    - body
+    - 1351
+    - 1351
+  label: 息臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-24
+    span:
+    - body
+    - 1387
+    - 1387
+  label: 小憇臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-25
+    span:
+    - body
+    - 1435
+    - 1435
+  label: 玉板臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-26
+    span:
+    - body
+    - 1464
+    - 1464
+  label: 大觀臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-27
+    span:
+    - body
+    - 1515
+    - 1515
+  label: 瞰雲臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-28
+    span:
+    - body
+    - 1555
+    - 1555
+  label: 澄江臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-29
+    span:
+    - body
+    - 1579
+    - 1579
+  label: 芸臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-30
+    span:
+    - body
+    - 1596
+    - 1596
+  label: 菩提臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-31
+    span:
+    - body
+    - 1617
+    - 1617
+  label: 待月臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-32
+    span:
+    - body
+    - 1647
+    - 1647
+  label: 補衲臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-33
+    span:
+    - body
+    - 1686
+    - 1686
+  label: 志宮宇第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-34
+    span:
+    - body
+    - 1691
+    - 1691
+  label: 佛宮
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-35
+    span:
+    - body
+    - 1812
+    - 1812
+  label: 僧居
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-36
+    span:
+    - body
+    - 1913
+    - 1913
+  label: 翠微房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-37
+    span:
+    - body
+    - 1932
+    - 1932
+  label: 宿星房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-38
+    span:
+    - body
+    - 1945
+    - 1945
+  label: 六觀亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-39
+    span:
+    - body
+    - 1978
+    - 1978
+  label: 芙蓉閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-40
+    span:
+    - body
+    - 2047
+    - 2047
+  label: 大觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-41
+    span:
+    - body
+    - 2078
+    - 2078
+  label: 息息所
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-42
+    span:
+    - body
+    - 2144
+    - 2144
+  label: 延爽軒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-43
+    span:
+    - body
+    - 2152
+    - 2152
+  label: 聳翠亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-44
+    span:
+    - body
+    - 2213
+    - 2213
+  label: 歸雲亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-45
+    span:
+    - body
+    - 2243
+    - 2243
+  label: 中峯庵
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-46
+    span:
+    - body
+    - 2289
+    - 2289
+  label: 志卉木第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-47
+    span:
+    - body
+    - 2294
+    - 2294
+  label: 松檜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-48
+    span:
+    - body
+    - 2321
+    - 2321
+  label: 大竹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-49
+    span:
+    - body
+    - 2342
+    - 2342
+  label: 菩提樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-50
+    span:
+    - body
+    - 2376
+    - 2376
+  label: 山栗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-51
+    span:
+    - body
+    - 2396
+    - 2396
+  label: 蕨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-52
+    span:
+    - body
+    - 2453
+    - 2453
+  label: 優曇葉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-53
+    span:
+    - body
+    - 2508
+    - 2508
+  label: 芸草
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-54
+    span:
+    - body
+    - 2548
+    - 2548
+  label: 鼠刺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-55
+    span:
+    - body
+    - 2577
+    - 2577
+  label: 志異蓄第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-56
+    span:
+    - body
+    - 2582
+    - 2582
+  label: 佛齒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-57
+    span:
+    - body
+    - 2633
+    - 2633
+  label: 佛骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-58
+    span:
+    - body
+    - 2690
+    - 2690
+  label: 附詩
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-59
+    span:
+    - body
+    - 2703
+    - 2703
+  label: 遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-60
+    span:
+    - body
+    - 2749
+    - 2749
+  label: 登芙蓉閣次韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-61
+    span:
+    - body
+    - 2795
+    - 2795
+  label: 大觀堂次韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-62
+    span:
+    - body
+    - 2840
+    - 2840
+  label: 別達僧出山次韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-63
+    span:
+    - body
+    - 2887
+    - 2887
+  label: 重遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-64
+    span:
+    - body
+    - 2932
+    - 2932
+  label: 宿小星槎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-65
+    span:
+    - body
+    - 2975
+    - 2975
+  label: 宿達公房
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-66
+    span:
+    - body
+    - 3019
+    - 3019
+  label: 登絕頂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-67
+    span:
+    - body
+    - 3062
+    - 3062
+  label: 宿寺次升之韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-68
+    span:
+    - body
+    - 3180
+    - 3180
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-69
+    span:
+    - body
+    - 3339
+    - 3339
+  label: 澄江臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-70
+    span:
+    - body
+    - 3386
+    - 3386
+  label: 芙蓉閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-71
+    span:
+    - body
+    - 3428
+    - 3428
+  label: 宿寺次升之韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-72
+    span:
+    - body
+    - 3545
+    - 3545
+  label: 奉陪󷘌司諫黃祠部諸君子遊獻花巖有作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-73
+    span:
+    - body
+    - 3617
+    - 3617
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-74
+    span:
+    - body
+    - 3776
+    - 3776
+  label: 宿寺次升之韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-75
+    span:
+    - body
+    - 3898
+    - 3898
+  label: 冬日遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-76
+    span:
+    - body
+    - 3960
+    - 3960
+  label: 宿寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-77
+    span:
+    - body
+    - 4078
+    - 4078
+  label: 曉自牛首望獻花巖聯句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-78
+    span:
+    - body
+    - 4149
+    - 4149
+  label: 至花巖寺聯句
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-79
+    span:
+    - body
+    - 4216
+    - 4216
+  label: 與王考功欽佩華玉升之己巳歲重游花巖宿大觀堂聯句四首
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-80
+    span:
+    - body
+    - 4424
+    - 4424
+  label: 芙蓉閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-81
+    span:
+    - body
+    - 4471
+    - 4471
+  label: 小飲白雲方丈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-82
+    span:
+    - body
+    - 4520
+    - 4520
+  label: 訪達上人不值
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-83
+    span:
+    - body
+    - 4570
+    - 4570
+  label: 將出寺作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-84
+    span:
+    - body
+    - 4618
+    - 4618
+  label: 宿小星槎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-85
+    span:
+    - body
+    - 4745
+    - 4745
+  label: 雪後登獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-86
+    span:
+    - body
+    - 4806
+    - 4806
+  label: 限韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-87
+    span:
+    - body
+    - 4868
+    - 4868
+  label: 次吳大常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-88
+    span:
+    - body
+    - 5027
+    - 5027
+  label: 遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-89
+    span:
+    - body
+    - 5076
+    - 5076
+  label: 宿大觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-90
+    span:
+    - body
+    - 5124
+    - 5124
+  label: 早秋登獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-91
+    span:
+    - body
+    - 5185
+    - 5185
+  label: 與思和遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-92
+    span:
+    - body
+    - 5235
+    - 5235
+  label: 遊花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-93
+    span:
+    - body
+    - 5282
+    - 5282
+  label: 遊花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-94
+    span:
+    - body
+    - 5345
+    - 5345
+  label: 陪劉尚寶扶侍遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-95
+    span:
+    - body
+    - 5673
+    - 5673
+  label: 觀佛骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-96
+    span:
+    - body
+    - 5716
+    - 5716
+  label: 次早入城
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-97
+    span:
+    - body
+    - 5775
+    - 5775
+  label: 遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-98
+    span:
+    - body
+    - 5839
+    - 5839
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-99
+    span:
+    - body
+    - 5997
+    - 5997
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-100
+    span:
+    - body
+    - 6127
+    - 6127
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-101
+    span:
+    - body
+    - 6446
+    - 6446
+  label: 次吳太常韻
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-102
+    span:
+    - body
+    - 6608
+    - 6608
+  label: 花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-103
+    span:
+    - body
+    - 6670
+    - 6670
+  label: 花巖偶成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-104
+    span:
+    - body
+    - 6789
+    - 6789
+  label: 大觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-105
+    span:
+    - body
+    - 6846
+    - 6846
+  label: 歸雲亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-106
+    span:
+    - body
+    - 6913
+    - 6913
+  label: 澄江臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-107
+    span:
+    - body
+    - 6976
+    - 6976
+  label: 獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-108
+    span:
+    - body
+    - 7021
+    - 7021
+  label: 息泉
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-109
+    span:
+    - body
+    - 7061
+    - 7061
+  label: 芙蓉閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-110
+    span:
+    - body
+    - 7100
+    - 7100
+  label: 聳翠亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-111
+    span:
+    - body
+    - 7157
+    - 7157
+  label: 待月臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-112
+    span:
+    - body
+    - 7211
+    - 7211
+  label: 補衲臺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-113
+    span:
+    - body
+    - 7250
+    - 7250
+  label: 長庚池
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-114
+    span:
+    - body
+    - 7328
+    - 7328
+  label: 秋日遊花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-115
+    span:
+    - body
+    - 7417
+    - 7417
+  label: 獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-116
+    span:
+    - body
+    - 7465
+    - 7465
+  label: 遊獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-117
+    span:
+    - body
+    - 7568
+    - 7568
+  label: 大觀堂
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-118
+    span:
+    - body
+    - 7614
+    - 7614
+  label: 獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-119
+    span:
+    - body
+    - 7661
+    - 7661
+  label: 花巖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-120
+    span:
+    - body
+    - 7724
+    - 7724
+  label: 觀佛齒骨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-121
+    span:
+    - body
+    - 7773
+    - 7773
+  label: 花巖寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-122
+    span:
+    - body
+    - 7820
+    - 7820
+  label: 宿寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-123
+    span:
+    - body
+    - 7868
+    - 7868
+  label: 獻花巖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-124
+    span:
+    - body
+    - 7896
+    - 7896
+  label: 歸雲亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-125
+    span:
+    - body
+    - 7919
+    - 7919
+  label: 聳翠亭
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-126
+    span:
+    - body
+    - 7942
+    - 7942
+  label: 小星槎
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-127
+    span:
+    - body
+    - 7977
+    - 7977
+  label: 芙蓉閣
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-128
+    span:
+    - body
+    - 8007
+    - 8007
+  label: 翠濤軒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0410_B_001-mulu-129
+    span:
+    - body
+    - 8038
+    - 8038
+  label: 跋
+  type: mulu
+  level: 1
+hash: sha256:8208e0f282a432ceaf93f3bf1f7bc0e0ddf143a79e7c4d955655c892af296ac3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
