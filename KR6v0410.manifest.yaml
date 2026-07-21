@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0410_000.yaml, hash: 'sha256:3fa5a7ccac220838dc52a85d98a8ca351f14956076b144976dd38e60679d744e'}
+  - {seq: 0, filename: KR6v0410_000.yaml, hash: 'sha256:455bf10f2b00dc2ab8aa4750e58d6219f98e5144a8f0ef998b378938ddf90609'}
   - {seq: 1, filename: KR6v0410_001.yaml, hash: 'sha256:f3dbf5cdf6e8f870327e675f540cf8f05a92facf2d677cd225abe86c088bc240'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0410_000.markers.yaml, hash: 'sha256:ca08b11e3064bab12c1b146b7027f014a0b560615c83d5daec5a9b46391ca05d'}
+  - {seq: 0, role: markers, filename: assets/KR6v0410_000.markers.yaml, hash: 'sha256:60908cda58ee68dcedf790d117f1e5d7215fcc2c18f6ecf05e6dbf5a0de328bb'}
   - {seq: 1, role: markers, filename: assets/KR6v0410_001.markers.yaml, hash: 'sha256:8f303a7273627ea44157389f690004708220080f656cb385ff21a011a5af0055'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0410_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -1334,7 +1334,7 @@ table_of_contents:
   label: 跋
   type: mulu
   level: 1
-hash: sha256:08af722b15e0781ebc35bfea43e22eb7f6a322f78df6b24fd7d9817934bdffb3
+hash: sha256:0eb6d1686609dadb0da462c12448620aabd3a7eb24737ca14289f48c067a7e85
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
